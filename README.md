@@ -1,2 +1,2 @@
 # GestionTournoiGmaing
-![Image of Yaktocat](image/Capture d’écran (153).png)
+![Image of Yaktocat](images/Capture d’écran (153).png)
