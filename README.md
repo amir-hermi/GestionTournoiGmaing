@@ -1,2 +1,2 @@
 # GestionTournoiGmaing
-![image info](/images/Capture d’écran (153).png)
+![GitHub Logo](/images/logo.png)
